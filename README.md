@@ -1,4 +1,19 @@
-# CodeIgniter 4 Framework
+# Upload Files menggunakan Codeigniter 4
+<p><b>NOTE: lakukan perintah berikut</b></p>
+<ul>
+	<li>Ubah file env copy menjadi .env</li>
+	<li>masukan konfigurasi database anda di file .env</li>
+	<li>ketikan perintah di terminal anda <i><b>php spark migrate</b></i></li>
+	<li>setelah melakukan migration , lakukan perintah <i><b>php spark db:seed Siswa</b></i></li>
+	<li>Setelah semua perintah selesai di lakukan , Aplikasi Siap untuk digunakan</li>
+</ul>
+
+Fitur
+<ul>
+  <li>Upload File Images</li>
+  <li>Upload File Pdf , Xlsx , Xls</li>
+  <li>Upload File Mp3 , Mp4</li>
+</ul>
 
 ## What is CodeIgniter?
 
